@@ -20,7 +20,7 @@
 230 gosub 1900
 240 if z==1 gosub 2000
 300 rem fall block --------------------
-310 y = y + 1
+315 y = y + 1
 320 gosub 1900
 330 if z==1 e=1
 340 y = y + 1
